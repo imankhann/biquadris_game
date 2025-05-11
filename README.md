@@ -1,6 +1,6 @@
 # Biquadris
 
-This repository is for the Biquadris game, which served as the final assignment for the CS 246 course at the University of Waterloo.
+This repository is for the Biquadris game, which served as the final assignment for the CS 246 course at the University of Waterloo. Code is private due to academic integrity policies, contact iman03101@gmail.com.
 
 This project was completed by Iman Khan, Ananya Ohrie, and Larry Chen.
 
